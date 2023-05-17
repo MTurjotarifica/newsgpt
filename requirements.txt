@@ -1,7 +1,7 @@
 slack_bolt
 slackeventsapi
 flask
-dotenv
+python-dotenv
 newsapi_python
 deepl
 openai
