@@ -31,7 +31,7 @@ translated_title, translated_description = newsgpt(urls, titles, descriptions)
 # translated_title= translated_title[ :len(translated_description)]
 
 # Add a route for the /hello command
-@app.route("/hello2", methods=["POST"])
+@app.route("/newshello", methods=["POST"])
 def handle_hello_request():
     data = request.form
     channel_id = data.get('channel_id')
