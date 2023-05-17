@@ -1,0 +1,7 @@
+slack_bolt
+slackeventsapi
+flask
+dotenv
+newsapi_python
+deepl
+openai
