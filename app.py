@@ -9,10 +9,6 @@ from dotenv import load_dotenv
 
 from functions import *
 
-import pandas as pd
-
-
-
 load_dotenv()
 
 # Initialize the Flask app and the Slack app
